@@ -1,0 +1,10 @@
+customtkinter==5.2.2
+pyautogui==0.9.54
+pynput==1.8.0
+pillow==11.1.0
+requests==2.32.3
+pytesseract==0.3.13
+pyautoit==0.6.5
+fuzzywuzzy==0.18.0
+keyboard==0.13.5
+python-Levenshtein==0.27.1
