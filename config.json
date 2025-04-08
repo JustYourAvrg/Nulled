@@ -1,0 +1,396 @@
+{
+    "version": "v1.0.2",
+    "webhook_url": "",
+    "private_server_link": "",
+    "webhook": {
+        "aura_found_id": "",
+        "jester_ping_id": "",
+        "mari_ping_id": "",
+        "glitch_biome_ping_id": "",
+        "dreamspace_biome_ping_id": "",
+        "ping_if_jester": 0,
+        "ping_if_mari": 0,
+        "normal_biomes_list": {
+            "NORMAL": 1,
+            "WINDY": 1,
+            "SNOWY": 1,
+            "RAINY": 1,
+            "HELL": 1,
+            "STARFALL": 1,
+            "CORRUPTION": 1,
+            "SAND STORM": 1,
+            "NULL": 1
+        }
+    },
+    "auto_merchant": {
+        "enabled": 0,
+        "interval": 1,
+        "merchant name pos": [
+            750,
+            675,
+            195,
+            30
+        ],
+        "item name pos": [
+            730,
+            370,
+            283,
+            25
+        ],
+        "merchant_positions": {
+            "open button": [
+                670,
+                900
+            ],
+            "dialogue box": [
+                940,
+                790
+            ],
+            "amount button": [
+                690,
+                580
+            ],
+            "purchase button": [
+                690,
+                625
+            ],
+            "first item pos": [
+                580,
+                700
+            ]
+        },
+        "mari": {
+            "void coin": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "lucky penny": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "mixed potion": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "lucky potion": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "lucky potion l": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "lucky potion xl": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "speed potion": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "speed potion l": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "speed potion xl": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "gear a": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "gear b": {
+                "enabled": 0,
+                "amount": "0"
+            }
+        },
+        "jester": {
+            "oblivion potion": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "heavenly potion": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "potion of bound": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "rune of everything": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "rune of dust": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "rune of nothing": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "rune of corruption": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "rune of hell": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "rune of galaxy": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "rune of rainstorm": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "rune of frost": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "rune of wind": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "strange potion": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "lucky potion": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "stella's candle": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "merchant tracker": {
+                "enabled": 0,
+                "amount": "0"
+            },
+            "random potion sack": {
+                "enabled": 0,
+                "amount": "0"
+            }
+        }
+    },
+    "clip_aura": {
+        "enabled": 0,
+        "min_clip_rarity": 99999999,
+        "min_ping_rarity": 99999999,
+        "clip_hotkey": "alt+f10"
+    },
+    "detect_biome": {
+        "enabled": 0
+    },
+    "biome_randomizer": {
+        "enabled": 0,
+        "interval": 35.0
+    },
+    "strange_controller": {
+        "enabled": 0,
+        "interval": 15.0
+    },
+    "auto_potion": {
+        "enabled": 0,
+        "swap_interval": 15.0,
+        "positions": {
+            "search_bar": [
+                920,
+                325
+            ],
+            "bound": [
+                1150,
+                400
+            ],
+            "heavenly": [
+                1150,
+                400
+            ],
+            "godlike": [
+                1150,
+                400
+            ],
+            "godly_yellow": [
+                1150,
+                400
+            ],
+            "godly_blue": [
+                1150,
+                500
+            ],
+            "godly_red": [
+                1150,
+                600
+            ],
+            "auto_button": [
+                705,
+                560
+            ],
+            "craft_button": [
+                580,
+                560
+            ]
+        },
+        "potions": {
+            "bound": {
+                "enabled": 0,
+                "positions": {
+                    "bounded": [
+                        800,
+                        615
+                    ],
+                    "permafrost": [
+                        800,
+                        670
+                    ]
+                }
+            },
+            "heavenly": {
+                "enabled": 0,
+                "positions": {
+                    "lucky_amount": [
+                        720,
+                        615
+                    ],
+                    "lucky_add": [
+                        800,
+                        615
+                    ],
+                    "celestial_amount": [
+                        720,
+                        670
+                    ],
+                    "celestial_add": [
+                        800,
+                        670
+                    ],
+                    "exotic_add": [
+                        800,
+                        720
+                    ]
+                }
+            },
+            "godly_yellow": {
+                "enabled": 0,
+                "positions": {
+                    "lucky_amount": [
+                        720,
+                        615
+                    ],
+                    "lucky_add": [
+                        800,
+                        615
+                    ],
+                    "speed_amount": [
+                        720,
+                        670
+                    ],
+                    "speed_add": [
+                        800,
+                        670
+                    ],
+                    "zues_add": [
+                        800,
+                        720
+                    ],
+                    "stormal_add": [
+                        800,
+                        775
+                    ]
+                }
+            },
+            "godly_blue": {
+                "enabled": 0,
+                "positions": {
+                    "speed_amount": [
+                        720,
+                        615
+                    ],
+                    "speed_add": [
+                        800,
+                        615
+                    ],
+                    "poseidon_add": [
+                        800,
+                        670
+                    ],
+                    "nautilus_add": [
+                        800,
+                        720
+                    ],
+                    "aquatic_add": [
+                        800,
+                        775
+                    ]
+                }
+            },
+            "godly_red": {
+                "enabled": 0,
+                "positions": {
+                    "lucky_amount": [
+                        720,
+                        615
+                    ],
+                    "lucky_add": [
+                        800,
+                        615
+                    ],
+                    "hades_add": [
+                        800,
+                        670
+                    ]
+                }
+            },
+            "godlike": {
+                "enabled": 0,
+                "positions": {
+                    "godly_yellow": [
+                        800,
+                        615
+                    ],
+                    "godly_blue": [
+                        800,
+                        670
+                    ],
+                    "godly_red": [
+                        800,
+                        720
+                    ]
+                }
+            }
+        }
+    },
+    "inventory_mouse_positions": {
+        "inventory": [
+            40,
+            520
+        ],
+        "items": [
+            1260,
+            330
+        ],
+        "search_bar": [
+            960,
+            350
+        ],
+        "item": [
+            830,
+            435
+        ],
+        "amount": [
+            570,
+            560
+        ],
+        "use": [
+            690,
+            560
+        ],
+        "exit": [
+            1410,
+            290
+        ]
+    }
+}
