@@ -1,0 +1,16 @@
+2025-04-10 09:02:07 - INFO - Link checks: 
+2025-04-10 09:02:07 - INFO - Attempting to craft potion bound
+2025-04-10 09:02:07 - INFO - Detect Biome Return: NORMAL | Last Detected Current Biome: None
+2025-04-10 09:02:07 - INFO - Link checks: 
+2025-04-10 09:02:07 - INFO - Detect Aura Return: pukeko | Last Cur Aura: None
+2025-04-10 09:02:07 - INFO - Link checks: 
+2025-04-10 09:02:10 - INFO - Attempting to end thread auto_potion_crafting_thread
+2025-04-10 09:02:10 - INFO - Ended thread auto_potion_crafting_thread successfully
+2025-04-10 09:02:10 - INFO - Link checks: 
+2025-04-10 09:02:13 - INFO - Link checks: 
+2025-04-10 09:02:26 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-04-10 09:02:26 - DEBUG - https://api.github.com:443 "GET /repos/JustYourAvrg/Nulled/releases/latest HTTP/1.1" 200 791
+2025-04-10 09:02:48 - INFO - Link checks: 
+2025-04-10 09:12:03 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-04-10 09:12:03 - DEBUG - https://api.github.com:443 "GET /repos/JustYourAvrg/Nulled/releases/latest HTTP/1.1" 200 791
+2025-04-10 09:12:09 - INFO - Link checks: 
