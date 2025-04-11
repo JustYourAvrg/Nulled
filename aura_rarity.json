@@ -1,0 +1,383 @@
+{
+    "Common": {
+        "Rarity": 2
+    },
+    "Uncommon": {
+        "Rarity": 4
+    },
+    "Good": {
+        "Rarity": 5
+    },
+    "Natural": {
+        "Rarity": 8
+    },
+    "Rare": {
+        "Rarity": 16
+    },
+    "Divinus": {
+        "Rarity": 32
+    },
+    "Crystallized": {
+        "Rarity": 64
+    },
+    "★": {
+        "Rarity": 100
+    },
+    "Rage": {
+        "Rarity": 128
+    },
+    "Topaz": {
+        "Rarity": 150
+    },
+    "Ruby": {
+        "Rarity": 350
+    },
+    "Forbidden": {
+        "Rarity": 404
+    },
+    "Emeral": {
+        "Rarity": 500
+    },
+    "Gilded": {
+        "Rarity": 512
+    },
+    "Ink": {
+        "Rarity": 700
+    },
+    "Jackpot": {
+        "Rarity": 777
+    },
+    "Sapphire": {
+        "Rarity": 800
+    },
+    "Aquamarine": {
+        "Rarity": 900
+    },
+    "Wind": {
+        "Rarity": 900
+    },
+    "★★": {
+        "Rarity": 1000
+    },
+    "Diaboli": {
+        "Rarity": 1004
+    },
+    "Precious": {
+        "Rarity": 1024
+    },
+    "Glock": {
+        "Rarity": 1700
+    },
+    "Magnetic": {
+        "Rarity": 2048
+    },
+    "Ash": {
+        "Rarity": 2300
+    },
+    "Glacier": {
+        "Rarity": 2304
+    },
+    "Player": {
+        "Rarity": 3000
+    },
+    "Fault": {
+        "Rarity": 300
+    },
+    "Sidereum": {
+        "Rarity": 4096
+    },
+    "Bleeding": {
+        "Rarity": 4444
+    },
+    "Solar": {
+        "Rarity": 50000
+    },
+    "Lunar": {
+        "Rarity": 50000
+    },
+    "STARLIGHT": {
+        "Rarity": 50000
+    },
+    "Star_Rider": {
+        "Rarity": 50000
+    },
+    ":Flushed:": {
+        "Rarity": 6900
+    },
+    "Hazard": {
+        "Rarity": 7000
+    },
+    "Quartz": {
+        "Rarity": 8192
+    },
+    "Lost Soul": {
+        "Rarity": 9200
+    },
+    "★★★": {
+        "Rarity": 10000
+    },
+    "Undead": {
+        "Rarity": 12000
+    },
+    "Corrosive": {
+        "Rarity": 12000
+    },
+    "Rage : Heated": {
+        "Rarity": 12800
+    },
+    "Leak": {
+        "Rarity": 14000
+    },
+    "Powered": {
+        "Rarity": 16384
+    },
+    "Permafrost": {
+        "Rarity": 36750
+    },
+    "Aquatic": {
+        "Rarity": 40000
+    },
+    "Flushed:_Lobotomy": {
+        "Rarity": 69000
+    },
+    "Hazard_Rays": {
+        "Rarity": 70000
+    },
+    "Nautilus": {
+        "Rarity": 70000
+    },
+    "Stormal": {
+        "Rarity": 90000
+    },
+    "Exotic": {
+        "Rarity": 99999
+    },
+    "Diabli_Void": {
+        "Rarity": 100400
+    },
+    "Undead_Devil": {
+        "Rarity": 120000
+    },
+    "Comet": {
+        "Rarity": 120000
+    },
+    "Jade": {
+        "Rarity": 125000
+    },
+    "Spectre": {
+        "Rarity": 140000
+    },
+    "Jazz": {
+        "Rarity": 160000
+    },
+    "Aether": {
+        "Rarity": 180000
+    },
+    "BOUNDED": {
+        "Rarity": 200000
+    },
+    "Celestial": {
+        "Rarity": 350000
+    },
+    "Kyawthuite": {
+        "Rarity": 850000
+    },
+    "Arcane": {
+        "Rarity": 1000000
+    },
+    "Magnetic_Reverse Polarity": {
+        "Rarity": 1024000
+    },
+    "Undefined": {
+        "Rarity": 1111000
+    },
+    "Rage_Brawler": {
+        "Rarity": 1280000
+    },
+    "Astral": {
+        "Rarity": 1336000
+    },
+    "Cosmos": {
+        "Rarity": 1520000
+    },
+    "Gravitational": {
+        "Rarity": 2000000
+    },
+    "BOUNDED_UNBOUND": {
+        "Rarity": 2000000
+    },
+    "Virtual": {
+        "Rarity": 2500000
+    },
+    "Savior": {
+        "Rarity": 3200000
+    },
+    "Aquatic_Flame": {
+        "Rarity": 4000000
+    },
+    "Poseidon": {
+        "Rarity": 4000000
+    },
+    "Zeus": {
+        "Rarity": 4500000
+    },
+    "Solar_Solstice": {
+        "Rarity": 5000000
+    },
+    "Galaxy": {
+        "Rarity": 5000000
+    },
+    "Lunar_Full Moon": {
+        "Rarity": 5000000
+    },
+    "Twilight": {
+        "Rarity": 6000000
+    },
+    "Origin": {
+        "Rarity": 6500000
+    },
+    "Hades": {
+        "Rarity": 6666666
+    },
+    "Celestial_Divine": {
+        "Rarity": 7000000
+    },
+    "Hyper-Volt": {
+        "Rarity": 7500000
+    },
+    "Velocity": {
+        "Rarity": 7630000
+    },
+    "Nihility": {
+        "Rarity": 9000000
+    },
+    "Helios": {
+        "Rarity": 9000000
+    },
+    "Starscourge": {
+        "Rarity": 10000000
+    },
+    "Sailor": {
+        "Rarity": 12000000
+    },
+    "Glitch": {
+        "Rarity": 12210110
+    },
+    "Stormal_Hurricane": {
+        "Rarity": 13500000
+    },
+    "Sirius": {
+        "Rarity": 14000000
+    },
+    "Arcane_Legacy": {
+        "Rarity": 15000000
+    },
+    "Chromatic": {
+        "Rarity": 20000000
+    },
+    "Aviator": {
+        "Rarity": 24000000
+    },
+    "Arcane_Dark": {
+        "Rarity": 30000000
+    },
+    "Ethereal": {
+        "Rarity": 35000000
+    },
+    "Overseer": {
+        "Rarity": 45000000
+    },
+    "Exotic_Apex": {
+        "Rarity": 49999500
+    },
+    "Matrix": {
+        "Rarity": 50000000
+    },
+    "Twilight_Iridescent Memory": {
+        "Rarity": 60000000
+    },
+    "Sailor_Flying Dutchman": {
+        "Rarity": 80000000
+    },
+    "Chromatic_Genesis": {
+        "Rarity": 99999999
+    },
+    "Starscourge_Radiant": {
+        "Rarity": 100000000
+    },
+    "Overture": {
+        "Rarity": 150000000
+    },
+    "Symphony": {
+        "Rarity": 175000000
+    },
+    "Impeached": {
+        "Rarity": 200000000
+    },
+    "Oppression": {
+        "Rarity": 220000000
+    },
+    "Archangel": {
+        "Rarity": 250000000
+    },
+    "Exotic_Void": {
+        "Rarity": 299999999
+    },
+    "Overture_History": {
+        "Rarity": 300000000
+    },
+    "BLOODLUST": {
+        "Rarity": 300000000
+    },
+    "Atlas": {
+        "Rarity": 360000000
+    },
+    "AbyssalHunter": {
+        "Rarity": 400000000
+    },
+    "GARGANTUA": {
+        "Rarity": 430000000
+    },
+    "APOSTOLOS": {
+        "Rarity": 444000000
+    },
+    "Ruins": {
+        "Rarity": 500000000
+    },
+    "Matrix_Overdrive": {
+        "Rarity": 503000000
+    },
+    "Matrix_Reality": {
+        "Rarity": 601020102
+    },
+    "Sovereign": {
+        "Rarity": 750000000
+    },
+    "Ruins_Withered": {
+        "Rarity": 800000000
+    },
+    "Aegis": {
+        "Rarity": 825000000
+    },
+    "PIXELATION": {
+        "Rarity": 1073741824
+    },
+    "Luminosity": {
+        "Rarity": 1200000000
+    },
+    "Glock_the glock of the sky": {
+        "Rarity": 170000000
+    },
+    "pukeko": {
+        "Rarity": 3198
+    },
+    ":Flushed:_Troll": {
+        "Rarity": 1000000
+    },
+    "Origin_Onion": {
+        "Rarity": 8000000
+    },
+    "Glock_shieldofthesky": {
+        "Rarity": 170000000
+    }
+}
